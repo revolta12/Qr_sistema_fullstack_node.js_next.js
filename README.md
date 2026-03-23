@@ -4,7 +4,7 @@ A full-stack web application for recording employee attendance using QR codes, w
 
 ---
 
-## 🌐 English Version (Recommended for GitHub)
+## 🌐 English Version
 
 ### 🚀 Tech Stack
 - Backend: Node.js, Express.js, Sequelize, MySQL  
@@ -60,7 +60,7 @@ Application runs at: http://localhost:3000
 
 ---
 
-## 🇹🇱 Versaun Tetum (Dokumentasaun Lokál)
+## 🇹🇱 Versaun Tetum
 
 ### 📌 Sistema Absensia Funsiunáriu ho QR Code
 
